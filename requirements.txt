@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+nibabel
+scikit-image
+pyvista
+pyvistaqt
+qtpy
+PySide6

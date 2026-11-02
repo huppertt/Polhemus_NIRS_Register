@@ -1,0 +1,28 @@
+# Local subject/session data, demos, and generated simulation results.
+/local_data/
+/local_demo/
+*.nii
+*.nii.gz
+*.mat
+!probe_registration_GUI/assets/atlas_ICBM152_and_probe.mat
+*.mlapp
+*.ipynb
+*.bin
+*.jnii
+*.bnii
+*.jdat
+*.mch
+*.mc2
+*.done
+*.log
+*_registered_probe.csv
+all_sessions_registered_probe.csv
+.ipynb_checkpoints/
+
+# Python and editor/OS artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.DS_Store
+.vscode/
